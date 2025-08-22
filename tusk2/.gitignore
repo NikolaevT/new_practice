@@ -70,3 +70,6 @@ coverage.xml
 
 # Файлы публикации
 publish/
+
+# JetBrains IDEA
+.idea/
